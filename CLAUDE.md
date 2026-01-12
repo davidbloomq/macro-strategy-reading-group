@@ -59,11 +59,17 @@ Email templates for department head outreach will be added once the department l
 
 ## Website
 
+**GitHub repo**: `davidbloomq/macro-strategy-reading-group`
+- URL: https://github.com/davidbloomq/macro-strategy-reading-group
+- Branch: `main`
+- GitHub Pages serves from the root of the repo
+
 Hosted on GitHub Pages. Single-page site with:
 1. Introduction to the reading group's topic and purpose
-2. Meeting room, dates, times, and Zoom link
-3. Announcements/updates
-4. Syllabus
-5. Interest form (embedded Google Form → Google Sheet)
+2. Organizer bio
+3. Meeting room, dates, times, and Zoom link
+4. Announcements/updates
+5. Syllabus
+6. Interest form link (Google Form → Google Sheet)
 
 Interest form responses go to a Google Sheet (not the email list). Members are added to the email list manually after review.
